@@ -1,0 +1,12 @@
+{
+	"name": "PostgreSqlTable1_Test",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "PostgreSql_caresync_ls",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "PostgreSqlV2Table",
+		"schema": []
+	}
+}
